@@ -1,3 +1,3 @@
 #Estoy probando con Git
 
-[detalles del archivo]
+#Aprendi a subir mi proyecto a Git Hub
